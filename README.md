@@ -1,8 +1,8 @@
 # Job Shop Scheduling Problem (JSSP)
 ### Formulação Disjuntiva MIP — Resolvido com Gurobi
 
-**Disciplina:** Otimização Combinatória — CEFET-MG  
-**Professor:** Alisson Marques da Silva  
+**Disciplina:** Pesquisa Operacional — CEFET-MG  
+**Professor:** Guido Pantuza Junior 
 **Artigo de referência:** King & Hildebrand (2024) — [arXiv:2407.18111](https://arxiv.org/abs/2407.18111)
 
 ---
