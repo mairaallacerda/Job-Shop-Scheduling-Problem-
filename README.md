@@ -2,7 +2,7 @@
 ### Formulação Disjuntiva MIP — Resolvido com Gurobi
 
 **Disciplina:** Pesquisa Operacional — CEFET-MG  
-**Professor:** Guido Pantuza Junior 
+**Professor:** Guido Pantuza Junior \
 **Artigo de referência:** King & Hildebrand (2024) — [arXiv:2407.18111](https://arxiv.org/abs/2407.18111)
 
 ---
